@@ -70,9 +70,11 @@ function CallForPapers() {
 
         <div className="contact-info">
           <h2>Program Committee</h2>
-          <p>Mark Clement, Chair (BYU)</p>
-          <p>Joe Price, Chair (BYU)</p>
-          <p>Daniel Zappala, Website (BYU)</p>
+          <p>Dr. Mark Clement, Computer Science Department, Brigham Young University, Chair</p>
+          <p>Dr. Joe Price, Economics Department, Brigham Young University, Chair</p>
+          <p>Dr. Amy Williams, Computer Science Department, Brigham Young University, Program Committee</p>
+          <p>Dr. Thomas Kerby, Statistics Department, Brigham Young University, Program Committee</p>
+          <p>Dr. Daniel Zappala, Computer Science Department, Brigham Young University, Publicity</p>
         </div>
       </div>
     </div>
