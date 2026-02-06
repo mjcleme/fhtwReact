@@ -5,7 +5,7 @@ function Registration() {
       <div className="page-content">
         <p>
           <a href="https://bit.ly/fhtw-2026" target="_blank" rel="noopener noreferrer">
-            Register with Eventbrite
+            Register
           </a>
         </p>
       </div>
